@@ -3,8 +3,8 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient
 from langchain.docstore.document import Document
 
-endpoint = "https://documentintelligence31121998.cognitiveservices.azure.com/"
-key = "cacdd2af8d284361a621ad658ef447af"
+endpoint = ""
+key = ""
 
 #documentUrl = "https://idodata.com/wp-content/uploads/2024/02/MASArticle-scaled.jpg"
 #documentUrl = "https://arxiv.org/pdf/2408.15240"
